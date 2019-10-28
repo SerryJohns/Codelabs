@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CodeLabs</string>
+    <string name="hint_name">Name</string>
+    <string name="hint_last_name">Last Name</string>
+    <string name="hint_likes">Likes</string>
+    <string name="label_like">Like</string>
+    <string name="label_databinding_title">Data binding Example</string>
+</resources>
